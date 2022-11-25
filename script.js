@@ -1,0 +1,1 @@
+var myNodeList = document.getElementsByTagName()
