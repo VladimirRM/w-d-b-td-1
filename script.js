@@ -1,1 +1,2 @@
-var myNodeList = document.getElementsByTagName()
+var myNodeList = document.getElementsByTagName("li");
+var i;
